@@ -1,2 +1,13 @@
-# Cab-Fare-prediction-analysis
-End-to-end ML workflow on an Uber rides dataset. Includes data cleaning, handling null values, outlier treatment, EDA, correlation analysis, feature engineering, scaling, and train-test preparation. Regression model development is in progress.
+## 📂 Project Structure
+- Uber_Dataset.csv → Raw dataset
+- Cab_Fare_Prediction.ipynb → Complete ML workflow
+
+## 📊 Workflow Covered
+- Data Cleaning
+- Null Value Treatment
+- Outlier Handling
+- EDA
+- Feature Engineering
+- Scaling
+- Train-Test Split
+- Regression Model
